@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project specific data files
+data/raw/
+data/processed/
+*.csv
+*.json
+*.parquet
+models/experiments/
+*.pkl
+*.joblib
+
+# Environment files
+.env
+.env.local
+config/secrets.yaml
+
+# AWS credentials
+.aws/
+*.pem
