@@ -50,7 +50,7 @@ Data Sources → AWS S3 → Lambda Functions → API Gateway → Web Interface
 
 ### Prerequisites
 - Python 3.9 or higher
-- AWS account (free tier sufficient)
+- AWS 
 - Git
 
 ### Installation
