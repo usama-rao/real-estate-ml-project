@@ -248,3 +248,7 @@ For questions or collaboration opportunities:
 This project is for educational purposes.
 It is part of a hands-on learning journey.
 Built to demonstrate real-world data science workflows.
+
+## Project Goals
+
+This project is intended for educational purposes and personal portfolio development. It aims to demonstrate practical skills in data cleaning, analysis, and machine learning workflows.
