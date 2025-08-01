@@ -244,3 +244,7 @@ For questions or collaboration opportunities:
 - Kaggle community for datasets
 - AWS for cloud infrastructure
 - Open source ML community for tools and libraries
+---
+This project is for educational purposes.
+It is part of a hands-on learning journey.
+Built to demonstrate real-world data science workflows.
